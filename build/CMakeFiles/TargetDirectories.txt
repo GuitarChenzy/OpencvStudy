@@ -1,0 +1,5 @@
+/home/czy/Documents/MyCPP/build/CMakeFiles/package.dir
+/home/czy/Documents/MyCPP/build/CMakeFiles/MyCpp.dir
+/home/czy/Documents/MyCPP/build/CMakeFiles/edit_cache.dir
+/home/czy/Documents/MyCPP/build/CMakeFiles/package_source.dir
+/home/czy/Documents/MyCPP/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/czy/Documents/MyCPP/build",
+  "command": "/usr/bin/g++-5    -isystem /usr/local/include -isystem /usr/local/include/opencv  -std=c++11  -g   -o CMakeFiles/MyCpp.dir/cv_tracing.cpp.o -c /home/czy/Documents/MyCPP/cv_tracing.cpp",
+  "file": "/home/czy/Documents/MyCPP/cv_tracing.cpp"
+}
+]
